@@ -44,9 +44,9 @@ Web Minds is more than just a platform; it's a vibrant community of web enthusia
 
 Don't miss out on endless inspiration, unwavering empowerment, and invaluable knowledge. Subscribe now to Web Minds and unlock the limitless power of innovation. Welcome to Web Minds, where the future of web development begins! 🔥🌐🌟
 
-<a href="https://www.youtube.com/@webMind1s?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="YouTube" >YouTube</a>
-<a href="https://www.instagram.com/webmind1s/?r=nametag" target="_blank" rel="noopener noreferrer"><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" alt="Instagram">Instagram</a>
-<a href="https://www.tiktok.com/@webmind1s" target="_blank" rel="noopener noreferrer"><img width="50px" src="https://as2.ftcdn.net/v2/jpg/02/94/58/55/1000_F_294585513_A76euF8oVyi3eVp4dFmTBjDG5NYbwQrw.jpg" alt="Tiktok">Tiktok</a>
+<a href="https://www.youtube.com/@webMind1s?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" alt="YouTube" >YouTube</a>
+<a href="https://www.instagram.com/webmind1s/?r=nametag" target="_blank" rel="noopener noreferrer"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/150px-Instagram_logo_2022.svg.png" alt="Instagram">Instagram</a>
+<a href="https://www.tiktok.com/@webmind1s" target="_blank" rel="noopener noreferrer"><img width="30px" src="https://as2.ftcdn.net/v2/jpg/02/94/58/55/1000_F_294585513_A76euF8oVyi3eVp4dFmTBjDG5NYbwQrw.jpg" alt="Tiktok">Tiktok</a>
 
   
 ## Get Started
