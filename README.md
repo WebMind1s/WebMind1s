@@ -1,6 +1,7 @@
 # Welcome to Web Minds
 
-  ![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif)
+<img width="100%" height="70px" align="center" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="">
+
 
 ## Introduction
  
