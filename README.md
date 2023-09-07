@@ -1,6 +1,6 @@
 # Welcome to Web Minds
 
-![Web Minds Logo](https://yt3.googleusercontent.com/hzJfsFEGOE6sNxbJFEKlZu2_mTk5fwcPuuMJOIcBdtn8GD2yux_Fpm-5bhPpjqkXjAiK5uAVlA=s176-c-k-c0x00ffffff-no-rj)
+  ![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif){:height="70px"}
 
 ## Introduction
 
