@@ -3,7 +3,7 @@
   ![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif){:height="70px"}
 
 ## Introduction
-
+ 
 Welcome to **Web Minds**, your gateway to boundless web development inspiration and expertise. At Web Minds, we are driven by an unwavering passion for web development, and we are committed to pushing the boundaries of creativity through cutting-edge design and exceptional user experiences.
 
 ## What Sets Us Apart
