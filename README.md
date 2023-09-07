@@ -43,7 +43,7 @@ Don't miss out on endless inspiration, unwavering empowerment, and invaluable kn
 
   ![YouTube](<https://www.youtube.com/@webMind1s?sub_confirmation=1>)
   ![Instagram](<https://www.instagram.com/webmind1s/?r=nametag>)
-  ![TikTok](<>)
+  ![TikTok](<https://www.tiktok.com/@webmind1s>)
 ## Get Started
 
 Ready to embark on your journey with Web Minds? Explore our repositories, dive into our tutorials, and become a part of our thriving community. We can't wait to see what you create!
