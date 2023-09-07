@@ -19,6 +19,8 @@ Welcome to **Web Minds**, your gateway to boundless web development inspiration 
 
 At Web Minds, we go beyond traditional web development. We offer tutorials and resources for a wide range of tools and platforms, including:
 - **Front-End Development:** Master the art of creating captivating user interfaces with our in-depth tutorials on front-end technologies, including HTML, CSS, JavaScript, and popular frameworks like React, Angular, and Vue.js.
+- <a href="https://www.youtube.com/@webMind1s?sub_confirmation=1" target="_blank" rel="noopener noreferrer"><img width="100%" height="340px" align="right" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" alt="">
+</a>
 
 - **Back-End Development:** Dive into the world of server-side development with our comprehensive tutorials on back-end technologies, such as Node.js, Python, Ruby on Rails, and database management systems like MongoDB and PostgreSQL.
 
