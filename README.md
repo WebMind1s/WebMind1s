@@ -41,6 +41,9 @@ Web Minds is more than just a platform; it's a vibrant community of web enthusia
 
 Don't miss out on endless inspiration, unwavering empowerment, and invaluable knowledge. Subscribe now to Web Minds and unlock the limitless power of innovation. Welcome to Web Minds, where the future of web development begins! 🔥🌐🌟
 
+  ![YouTube](<https://www.youtube.com/@webMind1s?sub_confirmation=1>)
+  ![Instagram](<https://www.instagram.com/webmind1s/?r=nametag>)
+  ![TikTok](<>)
 ## Get Started
 
 Ready to embark on your journey with Web Minds? Explore our repositories, dive into our tutorials, and become a part of our thriving community. We can't wait to see what you create!
