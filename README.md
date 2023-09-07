@@ -1,6 +1,6 @@
 # Welcome to Web Minds
 
-<img width="100%" height="100px" align="center" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="">
+<img width="100%" height="300px" align="center" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="">
 
 
 ## Introduction
